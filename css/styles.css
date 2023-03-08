@@ -52,7 +52,7 @@ button {
 
 .link {
   text-decoration: none;
-  // color: inherit;
+  color: inherit;
 }
 .header-container {
   align-items: center;
